@@ -1,0 +1,10 @@
+body {
+  display:flex; flex-direction:column; justify-content:center;
+  min-height:100vh;
+}
+.centered {
+    display: table-cell;
+    width: 800px;
+    text-align: center;
+    vertical-align: middle;
+    }

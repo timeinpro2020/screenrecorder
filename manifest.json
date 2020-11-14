@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "FinancePH Screen Recorder",
+  "description": "This is a screen recorder application.",
+  "version": "1.1",
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "index.html"
+  },
+  "permissions": [
+   "activeTab"
+   ]
+}
